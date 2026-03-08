@@ -261,7 +261,7 @@ Example:
 Full Stack Developer
 Skills: React.js | Node.js | MongoDB | Java | C++ | SQL
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/kartikeykeshari
 
 ---
 
